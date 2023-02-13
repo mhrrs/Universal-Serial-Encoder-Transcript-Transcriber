@@ -1,0 +1,172 @@
+sa
+Record 0f irra
+
+Course Level: Undergraduate (label: "metadata")
+Student Type: Continuing Undergraduate (label: "metadata")
+Only Admit: Fall 2016 (label: "metadata")
+
+Clemson 1D
+
+Current Program
+Bachelor of Science
+College :
+
+Major :
+
+Engr, Comp, and Appl Sci
+Computer Info Systems
+
+Minor : Business Administration
+Degree Bachelor of Science 07-AUG-2020
+Ehrs: 3.00 GPA-Hrs: 3.00 QPts: 9.00 GPA: 3.00 (label: "GPA")
+Primary
+College : Engr, Comp, and Appl Sci
+
+Major : Computer Info Systems (label: "major")
+
+Minor : Business Administration (label: "minor")
+SUB) NO. COURSE TITLE CRED GRD
+
+Date of Birth: 62/24/1998
+
+PTS R
+
+TRANSFER CREDIT ACCEPTED BY THE INSTITUTION:
+
+Fall 2015 U South Carolina Salkehatchie (label: "semester", "metadata")
+
+ENGL 1999 Transfer Elective 3.00 TR (label: "class name", "grade", "transfer")
+soc 2010 Intro Sociology 3.00 TR (label: "class name", "grade", "transfer")
+Ehrs: 6.00 GPA-Hrs: 0.00 QPts: 0.00 GPA: 6.00 (label: "GPA")
+Spring 2016 U South Carolina Salkehatchie (label: "metadata")
+
+ENGL 1030 Accelerated Composition 3.00 TR (label: "class name", "grade", "transfer")
+PHIL 1010 Intro to Phil Prob 3.00 TR (label: "class name", "grade", "transfer")
+Ehrs: 6.00 GPA-Hrs: 0.00 QPts: 0.00 GPA: @.00 (label: "GPA")
+Summer 2017 Orangeburg-Calhoun Tech Coll (label: "semester", "metadata")
+
+BIOL 1030 General Biology I 3.00 TR (label: "class name", "grade", "transfer")
+BIOL 1050 General Biol Lab I 1.00 TR (label: "class name", "grade", "transfer")
+Ehrs: 4.00 GPA-Hrs: 0.00 QPts: 0.00 GPA: 0.00 (label: "GPA")
+Summer 2019 Trident Tech College (label: "metadata")
+
+ACCT 2020 Mgr Acct Concepts 3.00 TR (label: "class name", "grade", "transfer")
+ECON 2120 Principles of Macro 3.00 TR (label: "class name", "grade", "transfer")
+
+Sponeseneeoreeeeec CONTINUED ON NEXT COLUMN cBoeeecooebEoCoHDE: Beptidresenenceeceme CONTINUED ON PAGE 2
+
+Date Issued: 18-SEP-2020
+
+CONV Conversion Verification
+
+Page: 1
+SUBJ NO. COURSE TITLE CRED GRD PTS R
+Transfer Information continued:
+Ehrs: 6.00 GPA-Hrs: 0.00 QPts: 0.00 GPA: 6.00 (label: "GPA")
+INSTITUTION CREDIT:
+Fall 2016 (label: "semester")
+Engr, Comp, and Appl Sci
+Computer Science
+New Undergraduate Student
+cH 1010 General Chemistry 4,00 W 0.00 (label: "class name", "grade", "institutional")
+CPSC 1060 Intro to Programming in Java 4.00 C 8.00 (label: "class name", "grade", "institutional")
+cu 1900 Clemson Connect 0.00 P 0.00 (label: "class name", "grade", "institutional")
+cu 1970 New Student Seminar 2.00 P 0.00 (label: "class name", "grade", "institutional")
+MATH 1040 Precalc & Intro Differen Calc 4.060 NP 0.60 (label: "class name", "grade", "institutional")
+Ehrs: 6,00 GPA-Hrs: 4.00 QPts: | 8.00 GPA: 2.00 (label: "GPA")
+Eligible to enroil
+Spring 2017 (label: "semester")
+Engr, Comp, and Appl Sci
+Computer Science
+Continuing Undergraduate
+CPSC 1070 Programming Methodology 4.00 A 16.00 (label: "class name", "grade", "institutional")
+FDSC 2140 Fd Resources & Soc 3:00 B 9.00 (label: "class name", "grade", "institutional")
+FIN 2010 Intro to Personal Finance 1:00 A 4.00 (label: "class name", "grade", "institutional")
+MATH 1020 Business Calculus I 3100 A 12.00 (label: "class name", "grade", "institutional")
+POSC 1030 Intro to Political Theory 3100 B 9.00 (label: "class name", "grade", "institutional")
+PSYC 3060 Human Sexual Beh 3.00 A 12.00 (label: "class name", "grade", "institutional")
+Ehrs: 17.00 GPA-Hrs: 17.00 QPts: 62.00 GPA: 3.64 (label: "GPA")
+Dean's List
+Eligible to enroll
+Fall 2017 (label: "semester")
+Engr, Comp, and Appl Sci
+Computer Info Systems
+Continuing Undergraduate
+BIOL 1230 Keys to Human Biol 3.00 B 9.00 (label: "class name", "grade", "institutional")
+ssh Clemson 10M Date of Birth: 02/24/1998 Date Issued: 18-SEP-2020
+CONV Conversion Verification
+
+Record of Page: 2
+Level: Undergraduate
+sub) NO. COURSE TITLE CRED GRD PTS R SUBJ NO. COURSE TITLE PTS R
+Institution Information continued: Institution Information continued:
+CPSC 2070 Discrete Structures 9.00 (label: "class name", "grade", "institutional")
+CPSC 2126 Algs/Data Structures 12.00 Spring 219 (label: "class name", "grade", "institutional")
+ECON 2116 Principles of Microeconomics 12.00 Engr, Comp, and Appl Sci (label: "class name", "grade", "institutional")
+EDC 3900 Skills for Stu Leads 12.00 Computer Info Systems (label: "class name", "grade", "institutional")
+MGT 2016 Principles of Management 12.00 Continuing Undergraduate (label: "class name", "grade", "institutional")
+Ehrs: 19.00 GPA-Hrs: 19.00 QPts: 3.47 CPSC 3220 Intro to Operating Systems 3 9.00 (label: "GPA", "class name", "grade", "institutional")
+Eligible to enroll CPSC 4110 Virtual Reality Systems 3. 9.00 (label: "class name", "grade", "institutional")
+CPSC 4140 Human and Computer Interaction 3. 12.00 (label: "class name", "grade", "institutional")
+Spring 2018 CPSC 4620 Database Management Systems 3. 6.00 (label: "semester", "class name", "grade", "institutional")
+Engr, Comp, and Appl Sci CPSC 4820 Special Topic in Computing: AI 3. 12.00 (label: "class name", "grade", "institutional")
+Computer Info Systems Ehrs: 15.00 GPA-Hrs: 15.06 QPts: 3.20 (label: "GPA")
+Continuing Undergraduate Eligible to enroll
+ACCT 2010 Financial Accounting Concepts 12.00 (label: "class name", "grade", "institutional")
+comm 2506 Public Speaking 12.00 Fall 2019 (label: "class name", "grade", "institutional", "semester")
+CPSC 2156 Software Dev Foundations 9.08 Engr, Comp, and Appl Sci (label: "class name", "grade", "institutional")
+CPSC 2310 Intro Computer Org 16.00 Computer Info Systems (label: "class name", "grade", "institutional")
+MATH 2070 Business Calculus II 12.00 Continuing Undergraduate (label: "class name", "grade", "institutional")
+Ehrs: 16.06 GPA-Hrs: 16.00 QPts: 3.81 CPSC 3990 �Adv CI: User Expr in VR Games 1.00 A 4.00 (label: "GPA", "class name", "grade", "institutional")
+Dean's List CPSC 4200 Computer Security Principles 3.00 B 9.08 (label: "class name", "grade", "institutional")
+Eligible to enroll ENGL 2160 African American Literature 3.00 A 12.00 (label: "class name", "grade", "institutional")
+LAW 3226 Legal Env of Bus 3.00 B 9.00 (label: "class name", "grade", "institutional")
+Fall 2018 MGT 3900 Operations Management 3:00 A 12.80 (label: "GPA", "class name", "grade", "institutional")
+Engr, Comp, and Appl Sci MGT 4520 Business Analysis 3.00 B 9.00 (label: "class name", "grade", "institutional")
+Computer Info Systems Ehrs: 16.00 GPA-Hrs: 16.00 QPts: 0 GPA: | 3.43 (label: "GPA")
+Continuing Undergraduate Eligible to enroll
+CPSC 2200 Microcomputer Appl 3.00 A (label: "class name", "grade", "institutional")
+CPSC 2916 Prof Issues I 1.00 A Spring 2020 (label: "class name", "grade", "institutional", "semester")
+CPSC 3608 Network Programming 3.00 A Engr, Comp, and Appl Sci (label: "class name", "grade", "institutional")
+CPSC 3726 Software Engineering 3.00 B Computer Info Systems (label: "class name", "grade", "institutional")
+MKT 3010 Principles of Marketing :00 A : Continuing Undergraduate (label: "class name", "grade", "institutional")
+STAT 3096 Introductory Business Stats 0B 9.00 CPSC 3990 CI: User Exper in VR Games 8.00 (label: "class name", "grade", "institutional")
+Ehrs: 16.00 GPA-Hrs: 16.00 QPts: PA: 3.62 CPSC 4910 Professional Issues IT 6.00 (label: "GPA", "class name", "grade", "institutional")
+Dean's List ENGL 3040 Business Writing 12.08 (label: "class name", "grade", "institutional")
+Eligible to enroll FIN 3060 Corporation Finance 12.00 (label: "class name", "grade", "institutional")
+
+SSeseeenencneeseeeoe� CONTINUED ON NEXT COLUMN SedebecECeDEEEEEDE: oEDEoEeHoHoHE=ere CONTINUED ON PAGE 3
+ssN Clenson 10 QE = Date of Birth: 02/24/1998 Date Issued: 18-SEP-2020
+CONV Conversion Verification
+
+metres serene Page: 3
+Undergraduate
+
+Record of
+Level
+
+SUBJ NO. COURSE TITLE CRED GRD PTS R
+
+Tnstitution Information continued:
+
+MGT 3120 Decision Models for Management 3.06 SCN _0.00 A (label: "class name", "grade", "institutional")
+Ehrs: 11.60 GPA-Hrs: 11.00 QPts: 38.00 GPA: 3.45 (label: "GPA")
+
+Eligible to enroil
+
+Summer 2020
+Engr, Comp, and Appl Sci
+Computer Info Systems
+Continuing Undergraduate
+MGT 3120 Decision Models for Management 3.00 B 9.00 T (label: "class name", "grade", "institutional", "Transfer")
+Ehrs: 3.00 GPA-Hrs: 3.00 QPts: 9.00 GPA: 3.00 (label: "GPA")
+Eligible to enroll
+Last Standing: Eligible to enroll
+eens chess pOcceE O08 TRANSCRIPT. TOTALS 208600 b He aco OE Ob
+Earned Hrs GPA Hrs Points GPA
+TOTAL INSTITUTION 119.00 117.00 405.00 3.46
+
+TOTAL TRANSFER 22.00 6.00 0.00 6.60 (label: "Total Transfer GPA")
+OVERALL 141,00 117.00 405.00 3.46 (label: "Overall GPA")
+
+Jeoceemebeneeeprecece END OF TRANSCRIPT �SSsopenessnoncececeoet (label: "End of Transcript")
